@@ -1,2 +1,2 @@
 #!/bin/bash
-ls > 0-hello_world_list.Hello, World
+echo "Hello, World"
